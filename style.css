@@ -50,7 +50,7 @@ h2 {
     color: #e5e7eb;
 }
 
-button {
+.firstbutton {
     background-color: #3882f6;
     color: white;
     text-align: center;
@@ -115,3 +115,39 @@ button {
     text-align: end;
     font-weight: bold;
 }
+
+/* fourth section */
+
+.calltoaction {
+    background-color: #3882f6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border: 0px;
+    margin: 100px 125px;
+    border-radius: 20px;
+    color: #e5e7eb;
+}
+
+.secondbutton {
+    background-color: #3882f6;
+    border: 2px solid #e5e7eb;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    border-radius: 15px;
+    width: 25%;
+}
+
+h4 {
+    font-size: 20px;
+    margin-bottom: -10px;
+}
+
+.calltoactiontext {
+    margin: 0 100px;
+
+}
+
+/* fifth section */
