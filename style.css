@@ -11,7 +11,7 @@ ul {
     color: white;
 }
 
-/* first section */
+/* first section below */
 
 .logo {
     font-weight: bold;
@@ -61,7 +61,7 @@ h2 {
     border-radius: 15px;
 }
 
-/* second section */
+/* second section below */
 
 .firstbodysectionheading {
     display: flex;
@@ -97,7 +97,7 @@ h2 {
     font-size: 18px;
 }
 
-/* third section */
+/* third section below */
 .thirdsection {
     background-color: #e5e7eb;
     margin: 0 -20px;
@@ -118,7 +118,7 @@ h2 {
     font-weight: bold;
 }
 
-/* fourth section */
+/* fourth section below */
 
 .calltoaction {
     background-color: #3882f6;
@@ -152,7 +152,7 @@ h4 {
 
 }
 
-/* fifth section */
+/* fifth section below */
 
 .fifthsection {
     background-color: #1f2937;
