@@ -54,3 +54,11 @@ button {
     border: none;
     border-radius: 15px;
 }
+
+.secondlist {
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+    column-gap: 50px;
+    color: black;
+}
