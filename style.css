@@ -2,6 +2,10 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+a:link, a:visited, a:hover, a:active {
+    text-decoration: none;
+    color: white;
+}
 
 ul {
     list-style-type: none;
